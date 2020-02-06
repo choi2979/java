@@ -1,0 +1,23 @@
+git
+repo test59
+
+형상관리툴
+
+로컬 저장소(내PC) 와 원격저장소(Github) 연결
+c드라이브에 git2020폴더를 추가하였고 git init으로 초기화 상태임
+
+아래 명령어를 실행시킴
+git remote add origin https://github.com/choi2979/java.git
+
+실행하고 나면
+origin httpxxxxxxxxx
+origin httpxxxxxxxxx
+
+
+
+
+git pull origin master 
+git add .
+git commit -m
+git push origin master
+
